@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.vscode/
+tram/templates/tram/images/generated/*
+
+!tram/templates/tram/images/generated/.gitkeep
