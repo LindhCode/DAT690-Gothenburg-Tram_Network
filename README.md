@@ -1,7 +1,4 @@
-# Lab 3: Web application for tram networks
+# Gothenburg Tram Network
+A project about displaying the shortest and quickest way around Gothenburg using its tram system. 
 
-For an explanation of your task and what these files do, see the [Lab 3 description](https://cse-chalmers-gu-python.github.io/chalmers-advanced-python/labs/lab3/).
-
-The files you will need can be found at: <https://github.com/cse-chalmers-gu-python/chalmers-advanced-python/tree/main/labs/lab3/files>.
-
-For instructions about submission, see Canvas.
+Made using html-parsing, django and OOP in python
